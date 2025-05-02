@@ -1,0 +1,7 @@
+с помощью системы;
+общедоступный статический класс VIPAntiBan
+{
+    общедоступная статическая строка GenerateCode()
+    {
+        const string validCharacters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+        переменная randomBytes = пе0)}
